@@ -1,0 +1,15 @@
+﻿[
+  {
+    "compensationId":  "Compensation-Test",
+    "employee": {
+      "employeeId": "Compensation-Test",
+      "firstName": "J",
+      "lastName": "Lenny",
+      "position": "Development Manager",
+      "department": "Engineering"
+    },
+    "salary": 80000.10,
+    "effectiveDate": "12/12/2020"
+  }
+]
+
